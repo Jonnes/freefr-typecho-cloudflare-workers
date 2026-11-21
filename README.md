@@ -1,7 +1,7 @@
 # freefr-cloudflare-workers
 利用CloudFlare Workers反代实现Free.fr上绑定域名+Typecho伪静态
 
-**使用：
+使用：
 将需要绑定的域名添加进Cloudflare
 建立Workers并绑定域名
 把代码中《你的id》替换成你实际的id
